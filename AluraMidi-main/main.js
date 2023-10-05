@@ -32,3 +32,13 @@ function TocaSomPom(){
 document.querySelector('#Som_tecla_pshi').play();
 }
 document.querySelector('.tecla_pshi').onclik= tocaSomPshi;
+
+function TocaSomPom(){
+document.querySelector('#Som_tecla_tic').play();
+}
+document.querySelector('.tecla_tic').onclik= tocaSomTic;
+
+function TocaSomPom(){
+document.querySelector('#Som_tecla_tom').play();
+}
+document.querySelector('.tecla_tom').onclik= tocaSomTom;
